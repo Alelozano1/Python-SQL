@@ -5,7 +5,7 @@ import mysql.connector
 
 mydb = mysql.connector.connect(
     host="o2-db-ativos-2-aurora-cluster.cluster-ro-cgqle4cw3o4s.us-east-1.rds.amazonaws.com",
-    user="user-matheus",
+    user="user-alexandre",
     password="Esfera2020",
     database="0_transfer"
 )
